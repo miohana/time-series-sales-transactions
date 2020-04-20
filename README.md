@@ -1,1 +1,1 @@
-# -time-series-sales-transactions
+# time-series-sales-transactions
